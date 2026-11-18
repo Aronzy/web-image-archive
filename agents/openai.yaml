@@ -1,0 +1,4 @@
+interface:
+  display_name: "网页图片归档"
+  short_description: "识别网页原图并批量去重保存到本地，按需分组导入 Eagle 参考库"
+  default_prompt: "使用 $web-image-archive，提取指定网页的原图，去重后保存到我指定的本地目录，并核验文件质量。"
